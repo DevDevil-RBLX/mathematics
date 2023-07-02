@@ -52,7 +52,7 @@ Thank you to everyone who has contributed to Interstellar!
 
 # Credits
 
-Thank you Echo (3kh0), for allowing us to use some of his games.
+
 
 
 
